@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hug Quest!", "Hug Quest!\Hug Quest!.csproj", "{6A89435D-D099-47F8-923B-02ABA65730C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A89435D-D099-47F8-923B-02ABA65730C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A89435D-D099-47F8-923B-02ABA65730C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A89435D-D099-47F8-923B-02ABA65730C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A89435D-D099-47F8-923B-02ABA65730C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18055349-11C4-4FC2-B48D-193C2D4A4A91}
+	EndGlobalSection
+EndGlobal
